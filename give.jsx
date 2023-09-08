@@ -1,0 +1,1 @@
+<><link rel="shortcut icon" href="images/R(2).jpg" type="image/x-icon" /><div className="cave" id="grave" mb-20 fs-4rem mt-500>We did it brahh...</div></>
